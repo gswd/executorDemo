@@ -12,6 +12,6 @@
 hs_err_pid*
 
 #myeclipse
-.classpath
-.project
-.settings
+#.classpath
+#.project
+#.settings
